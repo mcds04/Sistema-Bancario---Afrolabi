@@ -1,6 +1,7 @@
 # Sistema-Bancario--- System Banking - Afrolabi - **PROJETO FINAL**
 
-              ![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/100dd38d-06f3-4bed-b3b5-4a6c06e18b97)
+        
+![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/cd2642f7-4bb7-4736-8208-9487c1f8083b)
 
 
 
