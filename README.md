@@ -1,5 +1,7 @@
 # Sistema-Bancario--- System Banking - Afrolabi - **PROJETO FINAL**
 
+              ![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/100dd38d-06f3-4bed-b3b5-4a6c06e18b97)
+
 
 
 Este Projeto Implementa um Sistema Bancário Simples
@@ -130,26 +132,26 @@ Para testar a API do sistema bancário, você pode usar o Postman com as seguint
 
 
 1. **Ícones de Tecnologias:**
-   - Spring Boot: `         <![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/0dd56bbf-a189-4634-9e4b-35050d88e23f)" />`
-   - Spring Data JPA:      `<![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/3273d52b-4fd5-495a-8bfc-b36ee53eab38)" />`
-   - PostgreSQL:           `<![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/51e7a83e-7f61-437f-ad17-fd974026851b)" />`
-   - Postman: `              <![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/8265e651-ac76-4e3d-b8fc-09fbbec4e2ab)" />`
+   - Spring Boot:       
+   - Spring Data JPA:      
+   - PostgreSQL:           
+   - Postman:               
 
 2. **Ícones de Status**:
-   - Construído com: `        <![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/45531de9-0192-410d-a770-666a0c569750)" />`
-   - Estado do Projeto: `      <![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/84af89eb-11a1-48a3-ab72-dc861dba94c2)" />`
+   - Construído com:        
+   - Estado do Projeto:    
 
 3. **Ícones de Licença**:
-   - Licença MIT: `           < ![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/0b93ddaa-a33b-417a-9079-914fa098e018)" />`
+   - Licença MIT:           
 
 4. **Ícones de Badges**:
-   - Versão: `                <img src="https://img.shields.io/badge/version-1.0-blue.svg" alt="version" />`
-   - Tamanho do Repositório: `<img src="https://img.shields.io/github/repo-size/seu-usuario/seu-projeto.svg" alt="repo size" />`
+   - Versão:                
+   - Tamanho do Repositório: 
 
 5. **Ícones de Contato**:
    - LinkedIn:  https://www.linkedin.com/in/cristina-sousa-359a9777/
    - E-mail: -  cristina.wep2013@gmail.com
->`
+
 
 
 
