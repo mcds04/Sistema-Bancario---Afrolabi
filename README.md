@@ -120,34 +120,45 @@ Para testar a API do sistema bancário, você pode usar o Postman com as seguint
      ```
 
 4. **Listar as Transações de uma Conta**:
-   - Método: GET
+   - Método: GET ![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/54877071-c489-4b71-a47c-6d7ceb6c5bde)
+
    - Rota: `http://localhost:8080/api/contas/1/transacoes`
 
 
 1. **Ícones de Tecnologias:**
-   - Spring Boot: `<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot" />`
-   - Spring Data JPA: `<img src="https://img.shields.io/badge/Spring_Data_JPA-F2F4F9?style=for-the-badge&logo=spring" alt="Spring Data JPA" />`
-   - PostgreSQL: `<img src="https://img.shields.io/badge/PostgreSQL-F2F4F9?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />`
-   - Postman: `<img src="https://img.shields.io/badge/Postman-F2F4F9?style=for-the-badge&logo=postman" alt="Postman" />`
+   - Spring Boot: `<![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/0dd56bbf-a189-4634-9e4b-35050d88e23f)
+" />`
+   - Spring Data JPA: `<![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/3273d52b-4fd5-495a-8bfc-b36ee53eab38)
+" />`
+   - PostgreSQL: `<![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/51e7a83e-7f61-437f-ad17-fd974026851b)
+" />`
+   - Postman: `<![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/8265e651-ac76-4e3d-b8fc-09fbbec4e2ab)
+" />`
 
 2. **Ícones de Status**:
-   - Construído com: `<img src="https://img.shields.io/badge/built%20with-love-red.svg" alt="built with love" />`
-   - Estado do Projeto: `<img src="https://img.shields.io/badge/status-active-green.svg" alt="status" />`
+   - Construído com: `<![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/45531de9-0192-410d-a770-666a0c569750)
+" />`
+   - Estado do Projeto: `<![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/84af89eb-11a1-48a3-ab72-dc861dba94c2)
+" />`
 
 3. **Ícones de Licença**:
-   - Licença MIT: `<img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License" />`
+   - Licença MIT: `<![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/0b93ddaa-a33b-417a-9079-914fa098e018)
+" />`
 
 4. **Ícones de Badges**:
    - Versão: `<img src="https://img.shields.io/badge/version-1.0-blue.svg" alt="version" />`
    - Tamanho do Repositório: `<img src="https://img.shields.io/github/repo-size/seu-usuario/seu-projeto.svg" alt="repo size" />`
 
 5. **Ícones de Contato**:
-   - LinkedIn: `<a href="https://www.linkedin.com/in/seu-usuario/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>`
-   - E-mail: `<a href="mailto:seu-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>`
+   - LinkedIn: `<![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/6f4f9b51-8ce7-409d-95bd-37ea2f54cc0c)
+" alt="LinkedIn" /></a>` https://www.linkedin.com/in/cristina-sousa-359a9777/
+   - E-mail: `<![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/8cded5d2-2fb3-4c21-955f-08f93a24b354)
+>`
 
 
 
-## Conclusão
+## Conclusão   ![image](https://github.com/mcds04/Sistema-Bancario---Afrolabi/assets/100251166/0f0b8ada-46db-4b46-b287-dcd1db3c3975)
+
 
 Este projeto de sistema bancário demonstra a implementação de uma API REST utilizando Spring Boot, Spring Data JPA e PostgreSQL. Ele abrange as funcionalidades básicas de gerenciamento de clientes, contas e transações bancárias, com as respectivas regras de negócio.
 
