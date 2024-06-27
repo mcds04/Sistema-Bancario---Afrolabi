@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="01c04d70-e337-4a3f-b62d-455219d43c70" name="Project-System-Bank" url="jdbc:postgresql://localhost/Project-System-Bank" driverClass="org.postgresql.Driver" />
+      <data-source id="1578539b-0e34-405b-87a6-333785351298" name="banco_sistema" url="jdbc:postgresql://localhost:5432/banco_sistema" driverClass="org.postgresql.Driver" />
+    </data-sources>
+    <data-source-infos>
+      <data-source-info id="" persistence-unit-name="Default" />
+    </data-source-infos>
+  </component>
+</project>
